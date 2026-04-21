@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Images générées
+*.png
+
+# PDF (générés dans DOCS_SPLINE)
+*.pdf
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
